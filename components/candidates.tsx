@@ -38,7 +38,7 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
       image: "",
     },
     { role: "Sub-secretario", name: "Agustin Vega", bio: "Soy Agustin Vega, me comprometo a desempeñar mi funcion lo mejor posible, para tener una comunicación fluida siempre y mantenerte informado por esta pagina y demas medios.", image: "" },
-    { role: "Comisión", name: "No tiene.", bio: "", image: "" },
+    { role: "Comisión", name: "No hay.", bio: "", image: "" },
   ],
   hacienda: [
     {
@@ -47,34 +47,34 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
       bio: "",
       image: "",
     },
-    { role: "Sub-secretario/a", name: "No tiene.", bio: "", image: "" },
+    { role: "Sub-secretario/a", name: "No hay.", bio: "", image: "" },
     { role: "Comisión", name: "Melina Flores", bio: "", image: "" },
   ],
   salud: [
     { role: "Secretaria", name: "Martina Vega", bio: "", image: "" },
-    { role: "Sub-secretaria", name: "Valentin Cordero", bio: "", image: "" },
-    { role: "Comisión", name: "No tiene.", bio: "", image: "" },
+    { role: "Sub-secretario", name: "Ivan Suarez", bio: "", image: "" },
+    { role: "Comisión", name: "No hay.", bio: "", image: "" },
   ],
   sociales: [
     { role: "Secretaria", name: "Cecilia Wagner", bio: "", image: "" },
-    { role: "Sub-secretario/a", name: "No tiene.", bio: "", image: "" },
-    { role: "Comisión", name: "No tiene.", bio: "", image: "" },
+    { role: "Sub-secretario/a", name: "No hay.", bio: "", image: "" },
+    { role: "Comisión", name: "No hay.", bio: "", image: "" },
   ],
   genero: [
     { role: "Secretaria", name: "Guillermina Wagner", bio: "", image: "" },
     // SINTAXIS VERIFICADA
-    { role: "Subsecretaria", name: "Ivan Suarez", bio: "", image: "" }, 
-    { role: "Comisión", name: "No tiene.", bio: "", image: "" },
+    { role: "Subsecretaria", name: "Valentin Cordero", bio: "", image: "" }, 
+    { role: "Comisión", name: "No hay.", bio: "", image: "" },
   ],
   humanidades: [
     { role: "Sub-Secretaria", name: "Ariana Kopecky", bio: "", image: "" },
     { role: "Comisión", name: "Luca Zuñiga", bio: "", image: "" },
-    { role: "Comisión", name: "Tomas Alzuarena y Zoe Ganmaroto", bio: "", image: "" },
+    { role: "Comisión", name: "Tomas Alzuarena", bio: "", image: "" },
   ],
   edilicias: [
-    { role: "Secretaria", name: "Carolina Villareal", bio: "Tengo como objetivo  mejorar los espacios físicos de la escuela para que sean más seguros y funcionales para todos como mantenimiento de de las aulas, escaleras, ventanas, gas y ventilación", image: "https://i.postimg.cc/25n1S9Zx/Villareal-Edilicias-Pagina.png" },
-    { role: "Sub-secretaria", name: "Adriana Cuello", bio: "", image: "" },
-    { role: "Comisión", name: "No tiene.", bio: "", image: "" },
+    { role: "Secretaria", name: "Carolina Villareal", bio: "", image: "" },
+    { role: "Sub-secretaria", name: "Ari (4A)", bio: "", image: "" },
+    { role: "Comisión", name: "No hay.", bio: "", image: "" },
   ],
   parlamentaria: [
     { role: "Secretario/a", name: "Nombre Apellido", bio: "[Texto de presentación pendiente]", image: "" },
@@ -84,17 +84,17 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
   relaciones: [
     { role: "Secretaria", name: "Julieta Vivas", bio: "", image: "" },
     { role: "Sub-secretaria", name: "Adriana Cuello", bio: "", image: "" },
-    { role: "Comisión", name: "No tiene.", bio: "", image: "" },
+    { role: "Comisión", name: "No hay.", bio: "", image: "" },
   ],
   actas: [
     { role: "Secretaria", name: "Samira Persin", bio: "", image: "" },
-    { role: "Sub-secretario/a", name: "No tiene.", bio: "", image: "" },
-    { role: "Comisión", name: "No tiene.", bio: "", image: "" },
+    { role: "Sub-secretario/a", name: "No hay.", bio: "", image: "" },
+    { role: "Comisión", name: "No hay.", bio: "", image: "" },
   ],
   deportes: [
     { role: "Secretaria", name: "Victoria Bariles", bio: "", image: "" },
-    { role: "Sub-secretario/a", name: "Irineo Koconos", bio: "", image: "" },
-    { role: "Comisión", name: "No tiene.", bio: "", image: "" },
+    { role: "Sub-secretario/a", name: "Irineo 5(A)", bio: "", image: "" },
+    { role: "Comisión", name: "No hay.", bio: "", image: "" },
   ],
   arte: [
     { role: "Secretaria", name: "Barbara Zambrano", bio: "", image: "" },
@@ -102,7 +102,7 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
     {
       role: "Comisión",
       name: "Milagros Buffa",
-      bio: "Hola, soy Milagros y entre a la lista por las propuestas que tenía en mente y para hacer del colegio un lugar mejor.",
+      bio: "Hola, soy Milagros y entre a la lista por las propuestas que tenía en mente y para hacer del colegio un lugar mejor.",
       image: "https://i.postimg.cc/1X2z73yg/Buffa-Comision-Arte.jpg",
     },
   ],
@@ -121,7 +121,7 @@ const secretariatButtons = [
   { id: "genero", icon: "🚺", label: "Género" },
   { id: "humanidades", icon: "📚", label: "Humanidades" },
   { id: "edilicias", icon: "🏫", label: "Edilicias" },
-  { id: "parlamentaria", icon: "🗳️", label: "Parlamentaria" },
+  // { id: "parlamentaria", icon: "🗳️", label: "Parlamentaria" }, // Eliminado
   { id: "relaciones", icon: "🌐", label: "Relaciones" },
   { id: "actas", icon: "📜", label: "Actas" },
   { id: "deportes", icon: "⚽", label: "Deportes" },
