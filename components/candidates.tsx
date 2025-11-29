@@ -84,17 +84,17 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
   relaciones: [
     { role: "Secretaria", name: "Julieta Vivas", bio: "", image: "" },
     { role: "Sub-secretaria", name: "Adriana Cuello", bio: "", image: "" },
-    { role: "Comisión", name: "No hay.", bio: "", image: "" },
+    { role: "Comisión", name: "No tiene.", bio: "", image: "" },
   ],
   actas: [
     { role: "Secretaria", name: "Samira Persin", bio: "", image: "" },
-    { role: "Sub-secretario/a", name: "No hay.", bio: "", image: "" },
-    { role: "Comisión", name: "No hay.", bio: "", image: "" },
+    { role: "Sub-secretario/a", name: "No tiene.", bio: "", image: "" },
+    { role: "Comisión", name: "No tiene.", bio: "", image: "" },
   ],
   deportes: [
     { role: "Secretaria", name: "Victoria Bariles", bio: "", image: "" },
-    { role: "Sub-secretario/a", name: "Irineo 5(A)", bio: "", image: "" },
-    { role: "Comisión", name: "No hay.", bio: "", image: "" },
+    { role: "Sub-secretario/a", name: "Irineo Koconos", bio: "", image: "" },
+    { role: "Comisión", name: "No tiene.", bio: "", image: "" },
   ],
   arte: [
     { role: "Secretaria", name: "Barbara Zambrano", bio: "", image: "" },
@@ -102,7 +102,7 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
     {
       role: "Comisión",
       name: "Milagros Buffa",
-      bio: "Hola, soy Milagros y entre a la lista por las propuestas que tenía en mente y para hacer del colegio un lugar mejor.",
+      bio: "Hola, soy Milagros y entre a la lista por las propuestas que tenía en mente y para hacer del colegio un lugar mejor.",
       image: "https://i.postimg.cc/1X2z73yg/Buffa-Comision-Arte.jpg",
     },
   ],
