@@ -42,7 +42,7 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
   ],
   hacienda: [
     {
-      role: "Secretaria",
+      role:  "Secretaria",
       name: "Rocio Albornoz",
       bio: "",
       image: "",
