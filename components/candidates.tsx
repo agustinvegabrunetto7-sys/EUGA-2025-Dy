@@ -38,7 +38,7 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
       image: "",
     },
     { role: "Sub-secretario", name: "Agustin Vega", bio: "Soy Agustin Vega, me comprometo a desempeñar mi funcion lo mejor posible, para tener una comunicación fluida siempre y mantenerte informado por esta pagina y demas medios.", image: "" },
-    { role: "Comisión", name: "No hay.", bio: "", image: "" },
+    { role: "Comisión", name: "No tiene.", bio: "", image: "" },
   ],
   hacienda: [
     {
@@ -47,7 +47,7 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
       bio: "",
       image: "",
     },
-    { role: "Sub-secretario/a", name: "No hay.", bio: "", image: "" },
+    { role: "Sub-secretario/a", name: "No tiene.", bio: "", image: "" },
     { role: "Comisión", name: "Melina Flores", bio: "", image: "" },
   ],
   salud: [
