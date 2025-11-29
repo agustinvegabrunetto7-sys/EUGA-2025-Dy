@@ -57,8 +57,8 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
   ],
   sociales: [
     { role: "Secretaria", name: "Cecilia Wagner", bio: "", image: "" },
-    { role: "Sub-secretario/a", name: "No hay.", bio: "", image: "" },
-    { role: "Comisión", name: "No hay.", bio: "", image: "" },
+    { role: "Sub-secretario/a", name: "No tiene.", bio: "", image: "" },
+    { role: "Comisión", name: "No tiene.", bio: "", image: "" },
   ],
   genero: [
     { role: "Secretaria", name: "Guillermina Wagner", bio: "", image: "" },
