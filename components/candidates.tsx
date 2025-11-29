@@ -66,15 +66,15 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
     { role: "Subsecretaria", name: "Ivan Suarez", bio: "", image: "" }, 
     { role: "Comisión", name: "No tiene.", bio: "", image: "" },
   ],
-  derechos humanos: [
+  humanidades: [
     { role: "Sub-Secretaria", name: "Ariana Kopecky", bio: "", image: "" },
     { role: "Comisión", name: "Luca Zuñiga", bio: "", image: "" },
-    { role: "Comisión", name: "Tomas Alzuarena", bio: "", image: "" },
+    { role: "Comisión", name: "Tomas Alzuarena y Zoe Ganmaroto", bio: "", image: "" },
   ],
   edilicias: [
     { role: "Secretaria", name: "Carolina Villareal", bio: "Tengo como objetivo  mejorar los espacios físicos de la escuela para que sean más seguros y funcionales para todos como mantenimiento de de las aulas, escaleras, ventanas, gas y ventilación", image: "https://i.postimg.cc/25n1S9Zx/Villareal-Edilicias-Pagina.png" },
     { role: "Sub-secretaria", name: "Adriana Cuello", bio: "", image: "" },
-    { role: "Comisión", name: "No hay.", bio: "", image: "" },
+    { role: "Comisión", name: "No tiene.", bio: "", image: "" },
   ],
   parlamentaria: [
     { role: "Secretario/a", name: "Nombre Apellido", bio: "[Texto de presentación pendiente]", image: "" },
