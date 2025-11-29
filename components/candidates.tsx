@@ -142,7 +142,7 @@ export function Candidates() {
             COMISIÓN <span className="text-celeste-500">DIRECTIVA</span>
           </h2>
 
-          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
             {directiva.map((member, i) => (
               <GlassCard key={i} hoverEffect className="p-4 text-center group">
                 <div className="w-32 h-32 mx-auto rounded-full overflow-hidden mb-4 border-4 border-white shadow-lg group-hover:scale-105 transition-transform">
