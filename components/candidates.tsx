@@ -52,7 +52,7 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
   ],
   salud: [
     { role: "Secretaria", name: "Martina Vega", bio: "", image: "" },
-    { role: "Sub-secretario", name: "Ivan Suarez", bio: "", image: "" },
+    { role: "Sub-secretario", name: "Valentin Cordero", bio: "", image: "" },
     { role: "Comisión", name: "No tiene.", bio: "", image: "" },
   ],
   sociales: [
