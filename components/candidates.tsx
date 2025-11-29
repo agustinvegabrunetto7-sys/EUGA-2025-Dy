@@ -66,7 +66,7 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
     { role: "Subsecretaria", name: "Ivan Suarez", bio: "", image: "" }, 
     { role: "Comisión", name: "No tiene.", bio: "", image: "" },
   ],
-  humanidades: [
+  derechos humanos: [
     { role: "Sub-Secretaria", name: "Ariana Kopecky", bio: "", image: "" },
     { role: "Comisión", name: "Luca Zuñiga", bio: "", image: "" },
     { role: "Comisión", name: "Tomas Alzuarena", bio: "", image: "" },
