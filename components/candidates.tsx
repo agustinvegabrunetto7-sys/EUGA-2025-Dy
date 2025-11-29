@@ -83,7 +83,7 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
   ],
   relaciones: [
     { role: "Secretaria", name: "Julieta Vivas", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
-    { role: "Sub-secretaria", name: "Adriana Cuello", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
+    { role: "Sub-secretaria", name: "Ariadna Cuello", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
     { role: "Comisión", name: "No hay.", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
   ],
   actas: [
