@@ -88,7 +88,7 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
   ],
   actas: [
     { role: "Secretaria", name: "Samira Persin", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
-    { role: "Sub-secretario/a", name: "No hay.", bio: "https://i.postimg.cc/YSLcwTTj/64096.png", image: "" },
+    { role: "Sub-secretario/a", name: "No hay.", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
     { role: "Comisión", name: "No hay.", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
   ],
   deportes: [
