@@ -72,7 +72,7 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
     { role: "Comisión", name: "Tomas Alzuarena", bio: "", image: "" },
   ],
   edilicias: [
-    { role: "Secretaria", name: "Carolina Villareal", bio: "", image: "https://i.postimg.cc/25n1S9Zx/Villareal-Edilicias-Pagina.png" },
+    { role: "Secretaria", name: "Carolina Villareal", bio: "Tengo como objetivo  mejorar los espacios físicos de la escuela para que sean más seguros y funcionales para todos como mantenimiento de de las aulas, escaleras, ventanas, gas y ventilación", image: "https://i.postimg.cc/25n1S9Zx/Villareal-Edilicias-Pagina.png" },
     { role: "Sub-secretaria", name: "Ari (4A)", bio: "", image: "" },
     { role: "Comisión", name: "No hay.", bio: "", image: "" },
   ],
