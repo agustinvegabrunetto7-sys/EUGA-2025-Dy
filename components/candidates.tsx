@@ -97,7 +97,7 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
     { role: "Comisión", name: "No hay.", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
   ],
   arte: [
-    { role: "Secretaria", name: "Barbara Zambrano", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
+    { role: "Secretaria", name: "Barbara Zambrano", bio: "", image: "https://i.postimg.cc/1RpbQ8jF/Zambrano-Arte-Pagina.jpg" },
     { role: "Sub-secretaria", name: "Violeta Carraro", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
     {
       role: "Comisión",
