@@ -97,7 +97,7 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
     { role: "Comisión", name: "No hay.", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
   ],
   arte: [
-    { role: "Secretaria", name: "Barbara Zambrano", bio: "", image: "https://i.postimg.cc/1RpbQ8jF/Zambrano-Arte-Pagina.jpg" },
+    { role: "Secretaria", name: "Barbara Zambrano", bio: "Me encantaría ser parte del Centro Estudiantil ya que amo el trabajo social, y creo que puedo sumar con mi grano de arena la comunidad Garzonera. Haría mi aporte a esta institución desde la Secretaría de Arte y Cultura, trabajando por la inclusión y la participación de todo el estudiantado. Mi fortaleza seria la empatía que me permite integrar personas con diversas fortalezas, generando sinergia entre los equipos.", image: "https://i.postimg.cc/1RpbQ8jF/Zambrano-Arte-Pagina.jpg" },
     { role: "Sub-secretaria", name: "Violeta Carraro", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
     {
       role: "Comisión",
