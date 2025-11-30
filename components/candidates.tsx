@@ -56,7 +56,7 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
     { role: "Comisión", name: "No hay.", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
   ],
   sociales: [
-    { role: "Secretaria", name: "Cecilia Wagner", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
+    { role: "Secretaria", name: "Cecilia Wagner", bio: "", image: "https://i.postimg.cc/VkTC4k1g/Ceci-Wagner-Pro-Sociales-Pagina.jpg" },
     { role: "Sub-secretario/a", name: "No hay.", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
     { role: "Comisión", name: "No hay.", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
   ],
