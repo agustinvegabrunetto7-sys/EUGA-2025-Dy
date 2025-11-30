@@ -56,7 +56,7 @@ const teams: Record<string, Array<{ role: string; name: string; bio: string; ima
     { role: "Comisión", name: "No hay.", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
   ],
   sociales: [
-    { role: "Secretaria", name: "Cecilia Wagner", bio: "", image: "https://i.postimg.cc/VkTC4k1g/Ceci-Wagner-Pro-Sociales-Pagina.jpg" },
+    { role: "Secretaria", name: "Cecilia Wagner", bio: "Hola Soy Ceci de 5B y soy la candidata a Secretaria de problemáticas sociales. Mi objetivo es hacer que su paso por esta escuela este llena de cariño y respeto a sus pares. También me gustaría poder ayudar a generar sentido de pertenencia y cariño hacia nuestra escuela. ☺", image: "https://i.postimg.cc/VkTC4k1g/Ceci-Wagner-Pro-Sociales-Pagina.jpg" },
     { role: "Sub-secretario/a", name: "No hay.", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
     { role: "Comisión", name: "No hay.", bio: "", image: "https://i.postimg.cc/YSLcwTTj/64096.png" },
   ],
